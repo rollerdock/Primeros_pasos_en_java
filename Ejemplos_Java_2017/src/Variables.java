@@ -29,6 +29,7 @@ public class Variables {
 		System.out.println("El valor de vistos es: " + Vistos);
 		System.out.println("El valor de resto es: " + resto);
 		System.out.println("El valor de total es: " + total);
+		System.out.println(total);
 		
 	}
 
