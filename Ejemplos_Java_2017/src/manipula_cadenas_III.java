@@ -16,5 +16,5 @@ public class manipula_cadenas_III {
 // este metodo comapara dos arrays y te dice si son iguales "true" o no "false"
 		//la diferencia con System.equalsIgnorecase es que ignora mayusculas y minusculas
 	}
-
+//nuevo comentario
 }
