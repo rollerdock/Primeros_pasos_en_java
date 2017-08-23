@@ -5,7 +5,8 @@ public class Entrada_Ejemplo1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Scanner entrada=new Scanner(System.in);//esto es instanciar una clase
+		Scanner entrada=new Scanner(System.in); //esto es instanciar una clase
+		//y es necesario para poder usar el metodo Scaner 
 
 		System.out.println("introduce tu nombre:\n");
 		
