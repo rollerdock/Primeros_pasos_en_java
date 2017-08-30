@@ -5,7 +5,8 @@ public class Entrada_ejemplo2 {
 		// TODO Auto-generated method stub
  String nombre_usuario=JOptionPane.showInputDialog("Introduce tu nombre");//input 
  String edad=JOptionPane.showInputDialog("Introduce la edad por favor");
- int edad_usuario=Integer.parseInt(edad);
+
+	 	int edad_usuario=Integer.parseInt(edad); 
  
  //con la clase Integer (estatica) y el método parseInt(string) 
  //convertimos un string en un int
